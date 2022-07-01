@@ -101,8 +101,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
    conn.sendButton(m.chat, `*${wish()}, ${name} 👋*`, text.trim(), await genProfile(conn, m), [['Speedtest', _p + 'ping'], ['Owner', _p + 'owner']], false, { quoted: fkon, contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/bot_whangsaf",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
-    title: 'Simple Bot Esm',
+    description: "https://Instagram.com/karfuanyogich", 
+    title: '© 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
@@ -146,19 +146,19 @@ function wish() {
   const time = moment.tz('Asia/Kolkata').format('HH')
   wishloc = ('Hi')
   if (time >= 0) {
-    wishloc = ('Night Rider')
+    wishloc = ('Selamat Malam')
   }
   if (time >= 4) {
-    wishloc = ('Good Morning')
+    wishloc = ('Selamat Pagi')
   }
   if (time >= 12) {
-    wishloc = ('Good Afternoon')
+    wishloc = ('Selamat Siang')
   }
   if (time >= 16) {
-    wishloc = ('️Good Evening')
+    wishloc = ('️Selamat Malam')
   }
   if (time >= 23) {
-    wishloc = ('Night Rider')
+    wishloc = ('Selamat Malam')
   }
   return wishloc
 }
