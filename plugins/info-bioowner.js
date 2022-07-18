@@ -1,6 +1,6 @@
 let handler = async (m, { conn }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio = `*───────[ BIODATA OWNER ]───────*
+let teksbio = `*─> [ BIODATA OWNER ] <─*
 *💌 Nama* : YogzKyz
 *✉️ Nama RL* : Yogi
 *♂️ Gender* : Laki - laki
@@ -8,13 +8,13 @@ let teksbio = `*───────[ BIODATA OWNER ]───────*
 *⏰ Tanggal lahir* : 10 Maret 2005
 *🎨 Umur* : 17
 *🧮 Kelas* : 12
-*🧩 Hobby* : Turu, Coding, Recode Script Bot
+*🧩 Hobby* : Turu
 *💬 Sifat* : Kalem Kok Tenang Aja
-*🗺️ Tinggal* : Mars atau Pluto juga bisa
-*❤️ Suka* : Warna Hijau, Hitam, Putih and Kamauh😙
+*🗺️ Tinggal* : Mars
+*❤️ Suka* : Warna Hijau, Hitam, Putih and Kamuh😙
 *💔 Benci* : Autis and Seleb
 
-*───────[ SOSIAL MEDIA ]───────*
+*─> [ SOSIAL MEDIA ] <─*
 *📷 instagran* : @karfuanyogich
 *🎟️ TikTok* : @yogzkyzx
 *🏮 ChYoutube* : YogzKy
