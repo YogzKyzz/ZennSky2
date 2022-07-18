@@ -11,7 +11,7 @@ let teksbio = `*─> [ BIODATA OWNER ] <─*
 *🧩 Hobby* : Turu
 *💬 Sifat* : Kalem Kok Tenang Aja
 *🗺️ Tinggal* : Mars
-*❤️ Suka* : Warna Hijau, Hitam, Putih and Kamuh😙
+*❤️ Suka* : Kamuh😙
 *💔 Benci* : Autis and Seleb
 
 *─> [ SOSIAL MEDIA ] <─*
