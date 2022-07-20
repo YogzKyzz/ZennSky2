@@ -9,7 +9,7 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://vt.tiktok.com/Z
 *Nickname:* ${nickname}
 *Description:* ${description}
 
-*© 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧*
+*© 𝐴𝑟𝑎𝑎-𝐵𝑜𝑡𝑧*
 `.trim(), m)
 }
 handler.help = ['tiktok', 'tiktok', 'tiktokdl'].map(v => v + ' <url>')
